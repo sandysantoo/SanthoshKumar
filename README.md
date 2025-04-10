@@ -50,7 +50,7 @@ I am a passionate **Data Analyst** and **Business Analyst**, skilled in uncoveri
 
 ## 🌐 Connect with Me
 
-<a href="https://www.linkedin.com/in/rishav-chanda-b89a791b3">
+<a href="https://www.linkedin.com/in/santhoshkumaranalyst/"> 
   <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="60" height="60" style="max-width: 100%; border: none;">
 </a>
 
