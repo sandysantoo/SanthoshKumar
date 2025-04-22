@@ -1,8 +1,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sree+Vignesh!;" />
 </h1>
-<img src="https://t4.ftcdn.net/jpg/05/54/46/89/360_F_554468927_iwU3VYIjsaeopAb0WPYxVf21TloEhTEj.jpg" alt="New Banner" width="100%" height="auto" style="border: none; margin: 0; padding: 0;">
-
 <!-- Add an attractive banner that reflects your personality or skills (e.g., data analytics, coding, or professionalism) -->
 
 <img align="right" alt="Coding" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" width="200" height="200" style="max-width: 100%; display: inline-block; border: none; margin: 0; padding: 0;">
