@@ -32,7 +32,9 @@ I am a passionate **Data Analyst** and **Business Analyst**, skilled in uncoveri
 
 <h3 align="left">Projects:</h3>
 <p align="left">
-<a href="https://github.com/sreevignesh05?tab=repositories" target="blank">
+<a href="https://github.com/sreevignesh05?tab=repositories" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=12987&format=png&color=000000" alt="https://codebasics.io/portfolio/SREE-VIGNESH-S" height="75" width="75" /></a> 
+</p> 
+
 
 ## Technical Expertise  
 
