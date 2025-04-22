@@ -35,20 +35,15 @@ I am a passionate **Data Analyst** and **Business Analyst**, skilled in uncoveri
 <a href="https://github.com/sandysantoo?tab=repositories" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=12987&format=png&color=000000" alt="https://codebasics.io/portfolio/SREE-VIGNESH-S" height="75" width="75" /></a> 
 </p> 
 
+
+<h3 align="left">Portfolio/LinkedIn:</h3>
+<p align="left">
+<a href="https://linktr.ee/SanthoshKumar_" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=B2kE1iYkRIiw&format=png&color=000000" alt="https://linktr.ee/SanthoshKumar_" height="75" width="75" /></a> 
+<a href="https://www.linkedin.com/in/santhoshkumaranalyst/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/santhoshkumaranalyst/" height="50" width="50" /></a>
+</p> 
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="55" height="55"/> </a> <a href="https://github.com/sandysantoo/Sales-inshights-Project" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="Power BI" width="60" height="60"/> </a> <a href="https://github.com/sreevignesh05/Sales-analytics" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" alt="Excel" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/> </a>   </p> 
 
 
-## 🌐 Connect with Me
-
-<a href="https://www.linkedin.com/in/santhoshkumaranalyst/"> 
-  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="60" height="60" style="max-width: 100%; border: none;">
-</a>
-
-<a href="https://www.instagram.com/santhoshsaravannan/?hl=en">
-  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="60" height="60" style="max-width: 100%; border: none;">
-</a>
-
-<a href="mailto:santhosh.s2122004@gmail.com">
-  <img align="left" src="https://img.icons8.com/ios/452/gmail-new.png" alt="Email" width="60" height="60" style="max-width: 100%; border: none;">
-</a>
