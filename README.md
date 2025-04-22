@@ -8,7 +8,7 @@
 ### About Me  
 ## 👋 Hello, I'm **Santhosh Kumar**  
 I am a passionate **Data Analyst** and **Business Analyst**, skilled in uncovering insights and driving decisions through data.  
----
+
 
 ## Skills  
 
@@ -18,7 +18,7 @@ I am a passionate **Data Analyst** and **Business Analyst**, skilled in uncoveri
 - **Python**: Competent in using libraries like Pandas, NumPy, and Matplotlib for data manipulation and analysis.
 - **Data Cleaning**: Proficient in data cleaning techniques to ensure accuracy and consistency using Excel, SQL, and Python.
 
----
+
 
 ## 🌱 Soft Skills
 
@@ -30,7 +30,9 @@ I am a passionate **Data Analyst** and **Business Analyst**, skilled in uncoveri
 - **Creativity**
 - **Collaboration**
 
----
+<h3 align="left">Projects:</h3>
+<p align="left">
+<a href="https://github.com/sreevignesh05?tab=repositories" target="blank">
 
 ## Technical Expertise  
 
