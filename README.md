@@ -1,3 +1,6 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sree+Vignesh!;" />
+</h1>
 <img src="https://t4.ftcdn.net/jpg/05/54/46/89/360_F_554468927_iwU3VYIjsaeopAb0WPYxVf21TloEhTEj.jpg" alt="New Banner" width="100%" height="auto" style="border: none; margin: 0; padding: 0;">
 
 <!-- Add an attractive banner that reflects your personality or skills (e.g., data analytics, coding, or professionalism) -->
